@@ -58,4 +58,4 @@ jobs:
         with:
           app-name: 'britedge-manufacturing-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F2AB5E111ED446581C87C08801F1E10 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E4752A11143245AEA7DBF086795F6195 }}
